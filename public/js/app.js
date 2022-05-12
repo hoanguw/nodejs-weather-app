@@ -1,5 +1,3 @@
-console.log('Your script is running here!')
-
 const form = document.querySelector('form')
 const search = document.querySelector('input')
 const textOne = document.querySelector('#text-1')
