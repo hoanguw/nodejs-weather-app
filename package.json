@@ -17,7 +17,6 @@
     "hbs": "^4.0.1",
     "request": "^2.88.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hoanguw/nodejs-weather-app.git"
